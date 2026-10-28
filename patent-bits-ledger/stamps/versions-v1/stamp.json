@@ -1,0 +1,11 @@
+{
+ "name": "versions-v1",
+ "tsa": "https://freetsa.org/tsr",
+ "time_utc": "2026-10-08T08:49:44+00:00",
+ "date_et": "2026-10-08",
+ "files_sha256": "5a0419422faeda297735ed19a185a47d23f8ea337621f666054aa042f89e17d2",
+ "files": [
+  "docs/research/patent-bits/versions/v1-opus.json",
+  "docs/research/patent-bits/versions/v1-sonnet.json"
+ ]
+}

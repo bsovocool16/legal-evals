@@ -1,0 +1,26 @@
+{
+ "name": "sleep-arms",
+ "tsa": "https://freetsa.org/tsr",
+ "time_utc": "2026-10-08T18:54:11+00:00",
+ "date_et": "2026-10-08",
+ "files_sha256": "65fca8817ca312bb77bb2bf33d7e9161f0c1d9f216b9cf70b0e4fa9b5e4e0548",
+ "files": [
+  "docs/research/patent-bits/sleep/attempts.jsonl",
+  "docs/research/patent-bits/sleep/real/calls.json",
+  "docs/research/patent-bits/sleep/real/candidates_1.json",
+  "docs/research/patent-bits/sleep/real/candidates_2.json",
+  "docs/research/patent-bits/sleep/real/cases.json",
+  "docs/research/patent-bits/sleep/real/cycle_1.json",
+  "docs/research/patent-bits/sleep/real/cycle_2.json",
+  "docs/research/patent-bits/sleep/real/draft_forecasts_2.json",
+  "docs/research/patent-bits/sleep/real/result.json",
+  "docs/research/patent-bits/sleep/shuffled/calls.json",
+  "docs/research/patent-bits/sleep/shuffled/candidates_1.json",
+  "docs/research/patent-bits/sleep/shuffled/candidates_2.json",
+  "docs/research/patent-bits/sleep/shuffled/cases.json",
+  "docs/research/patent-bits/sleep/shuffled/cycle_1.json",
+  "docs/research/patent-bits/sleep/shuffled/cycle_2.json",
+  "docs/research/patent-bits/sleep/shuffled/draft_forecasts_2.json",
+  "docs/research/patent-bits/sleep/shuffled/result.json"
+ ]
+}

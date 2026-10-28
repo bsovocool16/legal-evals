@@ -1,0 +1,13 @@
+{
+ "name": "P-2026-10-15-predictions",
+ "tsa": "https://freetsa.org/tsr",
+ "time_utc": "2026-10-15T15:23:55+00:00",
+ "date_et": "2026-10-15",
+ "files_sha256": "15bb592bccc63b8a8127cc3fca2bd0f76738610ad4ec0861235a0ff73b665cc0",
+ "files": [
+  "docs/research/patent-bits/ledger/P-2026-10-15/predictions/v1-opus.jsonl",
+  "docs/research/patent-bits/ledger/P-2026-10-15/predictions/v1-sonnet.jsonl",
+  "docs/research/patent-bits/ledger/P-2026-10-15/predictions/v2-sonnet-lessons.jsonl",
+  "docs/research/patent-bits/ledger/P-2026-10-15/predictions/v2-sonnet-shuffled.jsonl"
+ ]
+}

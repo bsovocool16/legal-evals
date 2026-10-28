@@ -1,0 +1,11 @@
+{
+ "batch": "P-2026-10-15",
+ "version": "v2-sonnet-shuffled",
+ "version_hash": "6405e8573e22339df22949d987bf610633d01632d17d942e8f8f3a1a1c3009a5",
+ "units": 60,
+ "units_expected": 60,
+ "records": 60,
+ "infra_failed_units": [],
+ "cost_usd": 4.8,
+ "records_sha256": "76ce651de44e06541c8925494332b1e6e586b40f4b78a6bdff82159e1cb6132e"
+}

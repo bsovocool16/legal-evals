@@ -1,0 +1,443 @@
+{"group": "2024-09-02", "target": "A", "app": "18555560", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "17489286", "ok": true, "why": "", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "17681286", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "18136560", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "17452318", "ok": true, "why": "", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "18155626", "ok": true, "why": "", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "18428745", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "17859541", "ok": false, "why": "no response", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "16942459", "ok": true, "why": "", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "17770459", "ok": true, "why": "", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "18211541", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "17060444", "ok": false, "why": "no response", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "17719459", "ok": true, "why": "", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "18078459", "ok": true, "why": "", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "17247459", "ok": true, "why": "", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "17604560", "ok": true, "why": "", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "18090622", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "17131626", "ok": true, "why": "", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "17668447", "ok": true, "why": "", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "17371622", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "18223541", "ok": true, "why": "", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "18412444", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "17758626", "ok": true, "why": "", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "16652541", "ok": true, "why": "", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "18740622", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "17475541", "ok": true, "why": "", "at": "2026-10-08T08:45:21+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "18212444", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "18435626", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "18679494", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "17817541", "ok": false, "why": "no response", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "17786447", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "18593560", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-02", "target": "A", "app": "18173444", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17909507", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17911286", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17128560", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "15480622", "ok": false, "why": "no response", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "18066745", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17874560", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "18771494", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17381306", "ok": false, "why": "no response", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "18382622", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "18315626", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "18567974", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17825318", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17816494", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17424459", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17719626", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "29910459", "ok": false, "why": "not a utility application", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17264745", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "29885494", "ok": false, "why": "not a utility application", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17396459", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "18402459", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "18591494", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "18116745", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17914494", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "18584494", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17985459", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "16703626", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17207622", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "16984626", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "18349318", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17620286", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17442318", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "17801494", "ok": false, "why": "no response", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "18585745", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "15895507", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-16", "target": "A", "app": "18206974", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17633009", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17093938", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "18345974", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17906626", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "29855845", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17755626", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "18104286", "ok": false, "why": "no response", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17893071", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17840938", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17782009", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17863447", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17299507", "ok": false, "why": "no response", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "18403560", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "18348071", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "18544009", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "29879391", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17858391", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "18281447", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17247318", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "18086071", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "18379447", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17746071", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "18144622", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17731444", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "18297845", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17866494", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17611974", "ok": false, "why": "no response", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "18431286", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "16891318", "ok": false, "why": "no response", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "18057459", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "18044938", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17724745", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17485071", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "18123541", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17901974", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17800974", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17769459", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-09-30", "target": "A", "app": "17531745", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17406622", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17189622", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17901560", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "18384517", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17558302", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17020517", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "18818974", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17395845", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17673560", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "18255517", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17927444", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "18352745", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17535009", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17384541", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17886974", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "18395252", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "18726318", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17293845", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "18125071", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "18491980", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17720447", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "18041071", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17088302", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17792560", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17512447", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "16111507", "ok": false, "why": "no response", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "17464980", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-14", "target": "A", "app": "18597974", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17295541", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "29959318", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "18197938", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17892447", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17743560", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "18235622", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17437974", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17963938", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "18144541", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17515306", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "18518009", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17371938", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "18636626", "ok": false, "why": "latest examiner action on or before the response is not the rejection", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17577494", "ok": false, "why": "no response", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "14388009", "ok": false, "why": "no response", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17932745", "ok": false, "why": "no response", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17798974", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17874626", "ok": true, "why": "", "at": "2026-10-08T08:45:24+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17821626", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "18780607", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17109541", "ok": false, "why": "no response", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "18512541", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "18543938", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17889444", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "18722009", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "18281494", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17613009", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "18120622", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "18082974", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "18104444", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "18069391", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "18359507", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17887286", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "18619494", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "29958459", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-10-28", "target": "A", "app": "17156560", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17659444", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17574983", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "18179494", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17806980", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "16062974", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17853071", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "18305622", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17947517", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "18884938", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17845845", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "18667318", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17776507", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "18260318", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17690980", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17641459", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17361974", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "18233560", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "18070607", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17936560", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17533252", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "18651009", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "18008252", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17999252", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "18112974", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "18246626", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17862447", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17561745", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "29894983", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "18336980", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17292447", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "18418009", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "18035306", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "18018845", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17768444", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17765607", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "18628845", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17854541", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-11", "target": "A", "app": "17625009", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18760071", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "17692845", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18352195", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "17790009", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "17827459", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "17732286", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18406983", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18600306", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18133459", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18227494", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18439391", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "17953607", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "17742983", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "17254318", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18303306", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "17735071", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "16922306", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18217626", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "17723622", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "29910622", "ok": false, "why": "not a utility application", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18699560", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18402459", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "17829195", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18162626", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18522507", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18670286", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18190507", "ok": false, "why": "no response", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18120318", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "17943447", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "16607974", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "17755459", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18648391", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "17893626", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "17624507", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "18665306", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "17476607", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-11-25", "target": "A", "app": "17621938", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18068459", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17814845", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17759626", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18452607", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17757444", "ok": false, "why": "no response", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18655507", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17856974", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18114622", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17022447", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18901009", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17750009", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "16984444", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17937560", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17962507", "ok": false, "why": "no response", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18608507", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17463444", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "16862507", "ok": false, "why": "no response", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18183626", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17776626", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18326626", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17891626", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18352541", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17797459", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18610318", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18538541", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18065541", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17884607", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18619622", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18361286", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18663507", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18015009", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17808507", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17706845", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18626607", "ok": false, "why": "no response", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17810507", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17789286", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18908447", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17901845", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18511845", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17651286", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "16632009", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18755607", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17962845", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "18122459", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-09", "target": "A", "app": "17774626", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "29973560", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17785494", "ok": true, "why": "", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17828560", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "18364195", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:25+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "18166302", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17668195", "ok": false, "why": "no response", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "18030607", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "18613541", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17602444", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17817318", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17659071", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17375071", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17681459", "ok": false, "why": "no response", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "18670009", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "18636626", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17805447", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17963459", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "18184252", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "18194447", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17648974", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "18084517", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "18475575", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17837195", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17788517", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17597560", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17899391", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17648745", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17968575", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "18587622", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17894541", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17951444", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17434318", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "16961622", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17954494", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17545575", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2024-12-23", "target": "A", "app": "17725622", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17816745", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "18453575", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17129507", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17426626", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17728071", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17636575", "ok": false, "why": "no response", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17514845", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "29828963", "ok": false, "why": "not a utility application", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "18057948", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17945035", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17112306", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17809445", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17994302", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17800607", "ok": false, "why": "no response", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "18198517", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17558963", "ok": false, "why": "no response", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17048845", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17684444", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17755622", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17230195", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17971507", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17801308", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17784444", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17930195", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "18108507", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "29878071", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "18746845", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17780306", "ok": false, "why": "no response", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17706494", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17884983", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "18065560", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "18150195", "ok": false, "why": "no response", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17886517", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17532607", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "18370071", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "18437980", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "18529980", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "18203446", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17440445", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17797306", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "18940575", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "29876963", "ok": false, "why": "not a utility application", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17930983", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "18379507", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "18680938", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17672286", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "18948622", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-06", "target": "A", "app": "17794948", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "17768286", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18335009", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18557626", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "29806391", "ok": false, "why": "not a utility application", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18420980", "ok": false, "why": "no response", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "17329447", "ok": false, "why": "no response", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "17497507", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "17779306", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18052560", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "17916541", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18476607", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18361983", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18132983", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18735983", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18935626", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "17841983", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18932444", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "17557015", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18736626", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18435009", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "17908318", "ok": false, "why": "no response", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "29967015", "ok": false, "why": "not a utility application", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "17931071", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "17713575", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18364622", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "17952980", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "17995015", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "17093560", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18120444", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18574845", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "17781306", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18200035", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18327626", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18718286", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18336983", "ok": false, "why": "no response", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-01-20", "target": "A", "app": "18075507", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "17528541", "ok": false, "why": "no response", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "17538845", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18959306", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18668507", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "17797938", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "17908306", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18785459", "ok": false, "why": "not published by the rejection date", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18312286", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18242494", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "17809306", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18423306", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "17787622", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18046607", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18017938", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18086318", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18316459", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18274009", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18081845", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18263447", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18951541", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "17904444", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "17907009", "ok": true, "why": "", "at": "2026-10-08T08:45:26+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18169009", "ok": true, "why": "", "at": "2026-10-08T08:45:27+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "17530447", "ok": false, "why": "not pending through the pending window", "at": "2026-10-08T08:45:27+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18009626", "ok": true, "why": "", "at": "2026-10-08T08:45:27+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "17905447", "ok": true, "why": "", "at": "2026-10-08T08:45:27+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "17623622", "ok": false, "why": "no response", "at": "2026-10-08T08:45:27+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18022974", "ok": true, "why": "", "at": "2026-10-08T08:45:27+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "29876494", "ok": false, "why": "not a utility application", "at": "2026-10-08T08:45:27+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18124286", "ok": true, "why": "", "at": "2026-10-08T08:45:27+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "17793938", "ok": true, "why": "", "at": "2026-10-08T08:45:27+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18598626", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-08T08:45:27+00:00"}
+{"group": "2025-02-03", "target": "A", "app": "18028507", "ok": true, "why": "", "at": "2026-10-08T08:45:27+00:00"}

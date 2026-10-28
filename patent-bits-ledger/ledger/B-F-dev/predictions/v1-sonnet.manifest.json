@@ -1,0 +1,11 @@
+{
+ "batch": "B-F-dev",
+ "version": "v1-sonnet",
+ "version_hash": "1a98e7b04859539d06b547f9b9822fa6048939367e3acef68603a823075d21ed",
+ "units": 120,
+ "units_expected": 120,
+ "records": 120,
+ "infra_failed_units": [],
+ "cost_usd": 5.54,
+ "records_sha256": "aeed58a3c918f19d6fe83c660679bb4b08183e80c55c2cf21fcd9df0bc596379"
+}

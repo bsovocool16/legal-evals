@@ -1,0 +1,548 @@
+{
+ "A-19049799": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18260085": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18924671": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18196263": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18059034": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-19410179": {
+  "resolved": false,
+  "held_until": "2026-11-11",
+  "provisional": {
+   "resolved": true,
+   "y": 1,
+   "action": "NOA",
+   "date": "2026-10-21",
+   "basis": "2026-10-21"
+  },
+  "checked": "2026-10-22"
+ },
+ "A-19203106": {
+  "resolved": false,
+  "held_until": "2026-11-12",
+  "provisional": {
+   "resolved": true,
+   "y": 1,
+   "action": "NOA",
+   "date": "2026-10-22",
+   "basis": "2026-10-22"
+  },
+  "checked": "2026-10-22"
+ },
+ "A-18872197": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-19239741": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18549593": {
+  "resolved": false,
+  "held_until": "2026-11-11",
+  "provisional": {
+   "resolved": true,
+   "unscored": "activity inside the pending window",
+   "basis": "2026-10-21"
+  },
+  "checked": "2026-10-22"
+ },
+ "A-18844699": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18400994": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18925839": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18875138": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-19037677": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18570695": {
+  "resolved": false,
+  "held_until": "2026-11-10",
+  "provisional": {
+   "resolved": true,
+   "y": 1,
+   "action": "NOA",
+   "date": "2026-10-20",
+   "basis": "2026-10-20"
+  },
+  "checked": "2026-10-22"
+ },
+ "A-18499981": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18274740": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18517612": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18898046": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-13158456": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18937811": {
+  "resolved": false,
+  "held_until": "2026-11-11",
+  "provisional": {
+   "resolved": true,
+   "y": 1,
+   "action": "NOA",
+   "date": "2026-10-21",
+   "basis": "2026-10-21"
+  },
+  "checked": "2026-10-22"
+ },
+ "A-18747567": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18135454": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18946630": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-17920993": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-16949333": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18904579": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18761845": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18965517": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18559097": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18402433": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18700767": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18696814": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18476439": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18322310": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-17861427": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18677619": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-19421869": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-17277585": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18893736": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18923183": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18650847": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18086927": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18787093": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18138761": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18857820": {
+  "resolved": false,
+  "held_until": "2026-11-11",
+  "provisional": {
+   "resolved": true,
+   "y": 1,
+   "action": "NOA",
+   "date": "2026-10-21",
+   "basis": "2026-10-21"
+  },
+  "checked": "2026-10-22"
+ },
+ "A-19283235": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18800789": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-19344491": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18798324": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-17424363": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18592088": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-17943394": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18745962": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18978436": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-19191388": {
+  "resolved": false,
+  "held_until": "2026-11-10",
+  "provisional": {
+   "resolved": true,
+   "unscored": "activity inside the pending window",
+   "basis": "2026-10-20"
+  },
+  "checked": "2026-10-22"
+ },
+ "A-18709766": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18898576": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-19002327": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19014191": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18868301": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18763588": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18826309": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18798980": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19195621": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18816343": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19107238": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19127530": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18988347": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18514150": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19239524": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19346984": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19333981": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18731921": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18286755": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-17852918": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19279606": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18799652": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19232872": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18852898": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18855974": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18223326": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18771869": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18652475": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18543140": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18064234": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19008063": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19473573": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18878715": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19449371": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19134795": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19112556": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18423929": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18917864": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19457310": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19220760": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-17910179": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19001832": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18291944": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18576822": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19265482": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18469042": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18986365": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18309128": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18865240": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18840757": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18695527": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18742020": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-17607989": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18334007": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19438052": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18381745": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18895536": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18630316": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19326504": {
+  "resolved": false,
+  "held_until": "2026-11-09",
+  "provisional": {
+   "resolved": true,
+   "response": "2026-10-19",
+   "labels": {
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0
+   },
+   "basis": "2026-10-19"
+  },
+  "checked": "2026-10-22"
+ },
+ "F-18525271": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19355693": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18875113": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19409230": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ }
+}

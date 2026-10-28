@@ -1,0 +1,11 @@
+{
+ "batch": "P-2026-10-22",
+ "version": "v1-sonnet",
+ "version_hash": "1a98e7b04859539d06b547f9b9822fa6048939367e3acef68603a823075d21ed",
+ "units": 120,
+ "units_expected": 120,
+ "records": 120,
+ "infra_failed_units": [],
+ "cost_usd": 6.91,
+ "records_sha256": "b08bc57833854e68a15f371130ffff40ddfb099244c91a0bd9e8eedc61218959"
+}

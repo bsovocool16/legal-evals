@@ -1,0 +1,11 @@
+{
+ "name": "B-F-dev-predictions",
+ "tsa": "https://freetsa.org/tsr",
+ "time_utc": "2026-10-08T09:04:05+00:00",
+ "date_et": "2026-10-08",
+ "files_sha256": "d73ccd4129de619c41e60ee1e06b5831e55fd2188cdc81232cbc7398f7befffa",
+ "files": [
+  "docs/research/patent-bits/ledger/B-F-dev/predictions/v1-opus.jsonl",
+  "docs/research/patent-bits/ledger/B-F-dev/predictions/v1-sonnet.jsonl"
+ ]
+}

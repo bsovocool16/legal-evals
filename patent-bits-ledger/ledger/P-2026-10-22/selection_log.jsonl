@@ -1,0 +1,193 @@
+{"group": "A", "target": "A", "app": "18584943", "ok": true, "why": "", "at": "2026-10-22T14:55:25+00:00"}
+{"group": "A", "target": "A", "app": "18041284", "ok": true, "why": "", "at": "2026-10-22T14:55:29+00:00"}
+{"group": "A", "target": "A", "app": "18678764", "ok": false, "why": "no claims or remarks with XML on the response date", "at": "2026-10-22T14:55:31+00:00"}
+{"group": "A", "target": "A", "app": "19179805", "ok": true, "why": "", "at": "2026-10-22T14:55:35+00:00"}
+{"group": "A", "target": "A", "app": "19446284", "ok": true, "why": "", "at": "2026-10-22T14:55:39+00:00"}
+{"group": "A", "target": "A", "app": "18698312", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:55:40+00:00"}
+{"group": "A", "target": "A", "app": "18688177", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:55:41+00:00"}
+{"group": "A", "target": "A", "app": "18762787", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:55:42+00:00"}
+{"group": "A", "target": "A", "app": "18002431", "ok": true, "why": "", "at": "2026-10-22T14:55:46+00:00"}
+{"group": "A", "target": "A", "app": "18054877", "ok": true, "why": "", "at": "2026-10-22T14:55:50+00:00"}
+{"group": "A", "target": "A", "app": "18834951", "ok": true, "why": "", "at": "2026-10-22T14:55:54+00:00"}
+{"group": "A", "target": "A", "app": "18683196", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:55:55+00:00"}
+{"group": "A", "target": "A", "app": "18819865", "ok": true, "why": "", "at": "2026-10-22T14:55:59+00:00"}
+{"group": "A", "target": "A", "app": "19077866", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:56:00+00:00"}
+{"group": "A", "target": "A", "app": "17854322", "ok": true, "why": "", "at": "2026-10-22T14:56:04+00:00"}
+{"group": "A", "target": "A", "app": "18708817", "ok": true, "why": "", "at": "2026-10-22T14:56:08+00:00"}
+{"group": "A", "target": "A", "app": "17909480", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-22T14:56:10+00:00"}
+{"group": "A", "target": "A", "app": "19044454", "ok": true, "why": "", "at": "2026-10-22T14:56:15+00:00"}
+{"group": "A", "target": "A", "app": "19007232", "ok": false, "why": "not published by the rejection date", "at": "2026-10-22T14:56:15+00:00"}
+{"group": "A", "target": "A", "app": "18553106", "ok": false, "why": "response not in the window", "at": "2026-10-22T14:56:16+00:00"}
+{"group": "A", "target": "A", "app": "18896885", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-22T14:56:18+00:00"}
+{"group": "A", "target": "A", "app": "19135628", "ok": false, "why": "not published by the rejection date", "at": "2026-10-22T14:56:19+00:00"}
+{"group": "A", "target": "A", "app": "18558656", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:56:20+00:00"}
+{"group": "A", "target": "A", "app": "18708055", "ok": false, "why": "not published by the rejection date", "at": "2026-10-22T14:56:21+00:00"}
+{"group": "A", "target": "A", "app": "19148912", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:56:22+00:00"}
+{"group": "A", "target": "A", "app": "18622379", "ok": true, "why": "", "at": "2026-10-22T14:56:25+00:00"}
+{"group": "A", "target": "A", "app": "18248766", "ok": true, "why": "", "at": "2026-10-22T14:56:30+00:00"}
+{"group": "A", "target": "A", "app": "18534710", "ok": false, "why": "not pending at selection", "at": "2026-10-22T14:56:31+00:00"}
+{"group": "A", "target": "A", "app": "18458589", "ok": true, "why": "", "at": "2026-10-22T14:56:35+00:00"}
+{"group": "A", "target": "A", "app": "18888682", "ok": true, "why": "", "at": "2026-10-22T14:56:39+00:00"}
+{"group": "A", "target": "A", "app": "18512201", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:56:41+00:00"}
+{"group": "A", "target": "A", "app": "18900209", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-22T14:56:43+00:00"}
+{"group": "A", "target": "A", "app": "18769207", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:56:43+00:00"}
+{"group": "A", "target": "A", "app": "18866530", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:56:44+00:00"}
+{"group": "A", "target": "A", "app": "17907645", "ok": true, "why": "", "at": "2026-10-22T14:56:49+00:00"}
+{"group": "A", "target": "A", "app": "19008136", "ok": false, "why": "not published by the rejection date", "at": "2026-10-22T14:56:50+00:00"}
+{"group": "A", "target": "A", "app": "18577725", "ok": true, "why": "", "at": "2026-10-22T14:56:54+00:00"}
+{"group": "A", "target": "A", "app": "18836473", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:56:55+00:00"}
+{"group": "A", "target": "A", "app": "18499541", "ok": true, "why": "", "at": "2026-10-22T14:56:59+00:00"}
+{"group": "A", "target": "A", "app": "19157165", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:56:59+00:00"}
+{"group": "A", "target": "A", "app": "18463950", "ok": true, "why": "", "at": "2026-10-22T14:57:03+00:00"}
+{"group": "A", "target": "A", "app": "19131369", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:57:04+00:00"}
+{"group": "A", "target": "A", "app": "18820621", "ok": true, "why": "", "at": "2026-10-22T14:57:08+00:00"}
+{"group": "A", "target": "A", "app": "18576314", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:57:09+00:00"}
+{"group": "A", "target": "A", "app": "18364347", "ok": true, "why": "", "at": "2026-10-22T14:57:13+00:00"}
+{"group": "A", "target": "A", "app": "18682177", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-22T14:57:16+00:00"}
+{"group": "A", "target": "A", "app": "18401930", "ok": true, "why": "", "at": "2026-10-22T14:57:20+00:00"}
+{"group": "A", "target": "A", "app": "18719870", "ok": false, "why": "not published by the rejection date", "at": "2026-10-22T14:57:21+00:00"}
+{"group": "A", "target": "A", "app": "18631070", "ok": true, "why": "", "at": "2026-10-22T14:57:25+00:00"}
+{"group": "A", "target": "A", "app": "18435312", "ok": true, "why": "", "at": "2026-10-22T14:57:28+00:00"}
+{"group": "A", "target": "A", "app": "18673770", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:57:29+00:00"}
+{"group": "A", "target": "A", "app": "17789622", "ok": true, "why": "", "at": "2026-10-22T14:57:33+00:00"}
+{"group": "A", "target": "A", "app": "18727639", "ok": true, "why": "", "at": "2026-10-22T14:57:38+00:00"}
+{"group": "A", "target": "A", "app": "18204556", "ok": true, "why": "", "at": "2026-10-22T14:57:43+00:00"}
+{"group": "A", "target": "A", "app": "19202900", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-22T14:57:45+00:00"}
+{"group": "A", "target": "A", "app": "18283734", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-22T14:57:48+00:00"}
+{"group": "A", "target": "A", "app": "18794330", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:57:49+00:00"}
+{"group": "A", "target": "A", "app": "18702066", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:57:50+00:00"}
+{"group": "A", "target": "A", "app": "18033975", "ok": true, "why": "", "at": "2026-10-22T14:57:54+00:00"}
+{"group": "A", "target": "A", "app": "18849815", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:57:55+00:00"}
+{"group": "A", "target": "A", "app": "18668927", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:57:55+00:00"}
+{"group": "A", "target": "A", "app": "18706374", "ok": true, "why": "", "at": "2026-10-22T14:57:59+00:00"}
+{"group": "A", "target": "A", "app": "18906816", "ok": true, "why": "", "at": "2026-10-22T14:58:03+00:00"}
+{"group": "A", "target": "A", "app": "18431237", "ok": true, "why": "", "at": "2026-10-22T14:58:07+00:00"}
+{"group": "A", "target": "A", "app": "19095600", "ok": true, "why": "", "at": "2026-10-22T14:58:11+00:00"}
+{"group": "A", "target": "A", "app": "18561168", "ok": true, "why": "", "at": "2026-10-22T14:58:14+00:00"}
+{"group": "A", "target": "A", "app": "18413091", "ok": true, "why": "", "at": "2026-10-22T14:58:18+00:00"}
+{"group": "A", "target": "A", "app": "18656117", "ok": true, "why": "", "at": "2026-10-22T14:58:22+00:00"}
+{"group": "A", "target": "A", "app": "19237691", "ok": true, "why": "", "at": "2026-10-22T14:58:26+00:00"}
+{"group": "A", "target": "A", "app": "18259310", "ok": true, "why": "", "at": "2026-10-22T14:58:31+00:00"}
+{"group": "A", "target": "A", "app": "19182081", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:58:31+00:00"}
+{"group": "A", "target": "A", "app": "18812615", "ok": true, "why": "", "at": "2026-10-22T14:58:35+00:00"}
+{"group": "A", "target": "A", "app": "19012859", "ok": true, "why": "", "at": "2026-10-22T14:58:39+00:00"}
+{"group": "A", "target": "A", "app": "18215303", "ok": true, "why": "", "at": "2026-10-22T14:58:43+00:00"}
+{"group": "A", "target": "A", "app": "18699447", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:58:44+00:00"}
+{"group": "A", "target": "A", "app": "18035860", "ok": true, "why": "", "at": "2026-10-22T14:58:49+00:00"}
+{"group": "A", "target": "A", "app": "19126690", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:58:50+00:00"}
+{"group": "A", "target": "A", "app": "18752475", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-22T14:58:52+00:00"}
+{"group": "A", "target": "A", "app": "18659719", "ok": true, "why": "", "at": "2026-10-22T14:58:56+00:00"}
+{"group": "A", "target": "A", "app": "18865059", "ok": true, "why": "", "at": "2026-10-22T14:59:00+00:00"}
+{"group": "A", "target": "A", "app": "18903938", "ok": true, "why": "", "at": "2026-10-22T14:59:04+00:00"}
+{"group": "A", "target": "A", "app": "18983645", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:59:04+00:00"}
+{"group": "A", "target": "A", "app": "18680455", "ok": false, "why": "response not in the window", "at": "2026-10-22T14:59:06+00:00"}
+{"group": "A", "target": "A", "app": "18498310", "ok": true, "why": "", "at": "2026-10-22T14:59:10+00:00"}
+{"group": "A", "target": "A", "app": "19160098", "ok": false, "why": "not published by the rejection date", "at": "2026-10-22T14:59:11+00:00"}
+{"group": "A", "target": "A", "app": "18862390", "ok": true, "why": "", "at": "2026-10-22T14:59:16+00:00"}
+{"group": "A", "target": "A", "app": "18839673", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:59:16+00:00"}
+{"group": "A", "target": "A", "app": "18758911", "ok": true, "why": "", "at": "2026-10-22T14:59:20+00:00"}
+{"group": "A", "target": "A", "app": "18517625", "ok": true, "why": "", "at": "2026-10-22T14:59:24+00:00"}
+{"group": "A", "target": "A", "app": "19405887", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:59:24+00:00"}
+{"group": "A", "target": "A", "app": "18863596", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:59:25+00:00"}
+{"group": "A", "target": "A", "app": "18485064", "ok": true, "why": "", "at": "2026-10-22T14:59:29+00:00"}
+{"group": "A", "target": "A", "app": "19452722", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:59:30+00:00"}
+{"group": "A", "target": "A", "app": "18807391", "ok": false, "why": "claims filed with the response not cleanly parsed", "at": "2026-10-22T14:59:32+00:00"}
+{"group": "A", "target": "A", "app": "18798577", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:59:33+00:00"}
+{"group": "A", "target": "A", "app": "19148716", "ok": true, "why": "", "at": "2026-10-22T14:59:37+00:00"}
+{"group": "A", "target": "A", "app": "18513049", "ok": true, "why": "", "at": "2026-10-22T14:59:41+00:00"}
+{"group": "A", "target": "A", "app": "19030273", "ok": false, "why": "not published by the rejection date", "at": "2026-10-22T14:59:41+00:00"}
+{"group": "A", "target": "A", "app": "18042368", "ok": true, "why": "", "at": "2026-10-22T14:59:46+00:00"}
+{"group": "A", "target": "A", "app": "18023256", "ok": true, "why": "", "at": "2026-10-22T14:59:50+00:00"}
+{"group": "A", "target": "A", "app": "19011542", "ok": true, "why": "", "at": "2026-10-22T14:59:53+00:00"}
+{"group": "A", "target": "A", "app": "18861870", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:59:54+00:00"}
+{"group": "A", "target": "A", "app": "18832441", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-22T14:59:57+00:00"}
+{"group": "A", "target": "A", "app": "18994736", "ok": false, "why": "not published by the rejection date", "at": "2026-10-22T14:59:58+00:00"}
+{"group": "A", "target": "A", "app": "19063877", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T14:59:58+00:00"}
+{"group": "A", "target": "A", "app": "18094061", "ok": true, "why": "", "at": "2026-10-22T15:00:02+00:00"}
+{"group": "A", "target": "A", "app": "18780963", "ok": true, "why": "", "at": "2026-10-22T15:00:06+00:00"}
+{"group": "A", "target": "A", "app": "18960804", "ok": false, "why": "no claims or remarks with XML on the response date", "at": "2026-10-22T15:00:08+00:00"}
+{"group": "A", "target": "A", "app": "18678063", "ok": true, "why": "", "at": "2026-10-22T15:00:12+00:00"}
+{"group": "A", "target": "A", "app": "17460827", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T15:00:13+00:00"}
+{"group": "A", "target": "A", "app": "18122802", "ok": true, "why": "", "at": "2026-10-22T15:00:17+00:00"}
+{"group": "A", "target": "A", "app": "18745615", "ok": true, "why": "", "at": "2026-10-22T15:00:21+00:00"}
+{"group": "A", "target": "A", "app": "18599267", "ok": false, "why": "latest examiner action is not a non-final rejection", "at": "2026-10-22T15:00:23+00:00"}
+{"group": "A", "target": "A", "app": "18670061", "ok": true, "why": "", "at": "2026-10-22T15:00:27+00:00"}
+{"group": "F", "target": "F", "app": "19081407", "ok": false, "why": "not pending at selection", "at": "2026-10-22T15:00:27+00:00"}
+{"group": "F", "target": "F", "app": "19161946", "ok": true, "why": "", "at": "2026-10-22T15:00:34+00:00"}
+{"group": "F", "target": "F", "app": "18490720", "ok": true, "why": "", "at": "2026-10-22T15:00:38+00:00"}
+{"group": "F", "target": "F", "app": "19311686", "ok": true, "why": "", "at": "2026-10-22T15:00:40+00:00"}
+{"group": "F", "target": "F", "app": "18803297", "ok": true, "why": "", "at": "2026-10-22T15:00:42+00:00"}
+{"group": "F", "target": "F", "app": "19211520", "ok": true, "why": "", "at": "2026-10-22T15:00:45+00:00"}
+{"group": "F", "target": "F", "app": "18878883", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-22T15:00:48+00:00"}
+{"group": "F", "target": "F", "app": "19237849", "ok": false, "why": "latest examiner action is not a non-final rejection in the window", "at": "2026-10-22T15:00:48+00:00"}
+{"group": "F", "target": "F", "app": "19001697", "ok": true, "why": "", "at": "2026-10-22T15:00:51+00:00"}
+{"group": "F", "target": "F", "app": "18713326", "ok": true, "why": "", "at": "2026-10-22T15:00:56+00:00"}
+{"group": "F", "target": "F", "app": "19366809", "ok": true, "why": "", "at": "2026-10-22T15:00:59+00:00"}
+{"group": "F", "target": "F", "app": "18596354", "ok": true, "why": "", "at": "2026-10-22T15:01:01+00:00"}
+{"group": "F", "target": "F", "app": "18946708", "ok": true, "why": "", "at": "2026-10-22T15:01:03+00:00"}
+{"group": "F", "target": "F", "app": "19555633", "ok": true, "why": "", "at": "2026-10-22T15:01:05+00:00"}
+{"group": "F", "target": "F", "app": "19221183", "ok": true, "why": "", "at": "2026-10-22T15:01:08+00:00"}
+{"group": "F", "target": "F", "app": "18967175", "ok": true, "why": "", "at": "2026-10-22T15:01:11+00:00"}
+{"group": "F", "target": "F", "app": "18674663", "ok": false, "why": "no scorable dependent claim named in the rejection", "at": "2026-10-22T15:01:13+00:00"}
+{"group": "F", "target": "F", "app": "18880502", "ok": true, "why": "", "at": "2026-10-22T15:01:16+00:00"}
+{"group": "F", "target": "F", "app": "18937445", "ok": true, "why": "", "at": "2026-10-22T15:01:18+00:00"}
+{"group": "F", "target": "F", "app": "18102322", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-22T15:01:21+00:00"}
+{"group": "F", "target": "F", "app": "18589256", "ok": true, "why": "", "at": "2026-10-22T15:01:23+00:00"}
+{"group": "F", "target": "F", "app": "18768265", "ok": false, "why": "latest examiner action is not a non-final rejection in the window", "at": "2026-10-22T15:01:24+00:00"}
+{"group": "F", "target": "F", "app": "18870572", "ok": true, "why": "", "at": "2026-10-22T15:01:27+00:00"}
+{"group": "F", "target": "F", "app": "18881491", "ok": true, "why": "", "at": "2026-10-22T15:01:30+00:00"}
+{"group": "F", "target": "F", "app": "19074024", "ok": true, "why": "", "at": "2026-10-22T15:01:32+00:00"}
+{"group": "F", "target": "F", "app": "19438259", "ok": true, "why": "", "at": "2026-10-22T15:01:34+00:00"}
+{"group": "F", "target": "F", "app": "18820338", "ok": false, "why": "latest examiner action is not a non-final rejection in the window", "at": "2026-10-22T15:01:35+00:00"}
+{"group": "F", "target": "F", "app": "18657118", "ok": true, "why": "", "at": "2026-10-22T15:01:38+00:00"}
+{"group": "F", "target": "F", "app": "18999924", "ok": false, "why": "latest examiner action is not a non-final rejection in the window", "at": "2026-10-22T15:01:38+00:00"}
+{"group": "F", "target": "F", "app": "19329107", "ok": true, "why": "", "at": "2026-10-22T15:01:41+00:00"}
+{"group": "F", "target": "F", "app": "18788291", "ok": false, "why": "latest examiner action is not a non-final rejection in the window", "at": "2026-10-22T15:01:41+00:00"}
+{"group": "F", "target": "F", "app": "19253836", "ok": true, "why": "", "at": "2026-10-22T15:01:44+00:00"}
+{"group": "F", "target": "F", "app": "17655495", "ok": true, "why": "", "at": "2026-10-22T15:01:46+00:00"}
+{"group": "F", "target": "F", "app": "18681922", "ok": false, "why": "latest examiner action is not a non-final rejection in the window", "at": "2026-10-22T15:01:47+00:00"}
+{"group": "F", "target": "F", "app": "19078446", "ok": true, "why": "", "at": "2026-10-22T15:01:50+00:00"}
+{"group": "F", "target": "F", "app": "18930180", "ok": true, "why": "", "at": "2026-10-22T15:01:53+00:00"}
+{"group": "F", "target": "F", "app": "19235232", "ok": true, "why": "", "at": "2026-10-22T15:01:55+00:00"}
+{"group": "F", "target": "F", "app": "18992917", "ok": true, "why": "", "at": "2026-10-22T15:01:57+00:00"}
+{"group": "F", "target": "F", "app": "19325712", "ok": true, "why": "", "at": "2026-10-22T15:01:59+00:00"}
+{"group": "F", "target": "F", "app": "19211833", "ok": true, "why": "", "at": "2026-10-22T15:02:02+00:00"}
+{"group": "F", "target": "F", "app": "18281972", "ok": true, "why": "", "at": "2026-10-22T15:02:05+00:00"}
+{"group": "F", "target": "F", "app": "19067859", "ok": false, "why": "latest examiner action is not a non-final rejection in the window", "at": "2026-10-22T15:02:05+00:00"}
+{"group": "F", "target": "F", "app": "19045985", "ok": true, "why": "", "at": "2026-10-22T15:02:08+00:00"}
+{"group": "F", "target": "F", "app": "18860881", "ok": false, "why": "latest examiner action is not a non-final rejection in the window", "at": "2026-10-22T15:02:09+00:00"}
+{"group": "F", "target": "F", "app": "17310262", "ok": true, "why": "", "at": "2026-10-22T15:02:11+00:00"}
+{"group": "F", "target": "F", "app": "18821952", "ok": false, "why": "latest examiner action is not a non-final rejection in the window", "at": "2026-10-22T15:02:12+00:00"}
+{"group": "F", "target": "F", "app": "18186540", "ok": true, "why": "", "at": "2026-10-22T15:02:14+00:00"}
+{"group": "F", "target": "F", "app": "19566546", "ok": true, "why": "", "at": "2026-10-22T15:02:18+00:00"}
+{"group": "F", "target": "F", "app": "18647840", "ok": true, "why": "", "at": "2026-10-22T15:02:20+00:00"}
+{"group": "F", "target": "F", "app": "18722526", "ok": true, "why": "", "at": "2026-10-22T15:02:25+00:00"}
+{"group": "F", "target": "F", "app": "18456415", "ok": true, "why": "", "at": "2026-10-22T15:02:28+00:00"}
+{"group": "F", "target": "F", "app": "18023710", "ok": true, "why": "", "at": "2026-10-22T15:02:30+00:00"}
+{"group": "F", "target": "F", "app": "18441078", "ok": true, "why": "", "at": "2026-10-22T15:02:32+00:00"}
+{"group": "F", "target": "F", "app": "18441101", "ok": true, "why": "", "at": "2026-10-22T15:02:34+00:00"}
+{"group": "F", "target": "F", "app": "18710818", "ok": true, "why": "", "at": "2026-10-22T15:02:38+00:00"}
+{"group": "F", "target": "F", "app": "17632039", "ok": true, "why": "", "at": "2026-10-22T15:02:40+00:00"}
+{"group": "F", "target": "F", "app": "19190648", "ok": true, "why": "", "at": "2026-10-22T15:02:43+00:00"}
+{"group": "F", "target": "F", "app": "19670527", "ok": true, "why": "", "at": "2026-10-22T15:02:45+00:00"}
+{"group": "F", "target": "F", "app": "18842707", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-22T15:02:48+00:00"}
+{"group": "F", "target": "F", "app": "18361821", "ok": true, "why": "", "at": "2026-10-22T15:02:50+00:00"}
+{"group": "F", "target": "F", "app": "19440191", "ok": true, "why": "", "at": "2026-10-22T15:02:53+00:00"}
+{"group": "F", "target": "F", "app": "18709230", "ok": true, "why": "", "at": "2026-10-22T15:02:57+00:00"}
+{"group": "F", "target": "F", "app": "19267329", "ok": true, "why": "", "at": "2026-10-22T15:02:59+00:00"}
+{"group": "F", "target": "F", "app": "18491154", "ok": true, "why": "", "at": "2026-10-22T15:03:01+00:00"}
+{"group": "F", "target": "F", "app": "18876442", "ok": false, "why": "no scorable dependent claim named in the rejection", "at": "2026-10-22T15:03:04+00:00"}
+{"group": "F", "target": "F", "app": "18749230", "ok": true, "why": "", "at": "2026-10-22T15:03:07+00:00"}
+{"group": "F", "target": "F", "app": "18286893", "ok": false, "why": "latest examiner action is not a non-final rejection in the window", "at": "2026-10-22T15:03:07+00:00"}
+{"group": "F", "target": "F", "app": "18215330", "ok": true, "why": "", "at": "2026-10-22T15:03:10+00:00"}
+{"group": "F", "target": "F", "app": "19197738", "ok": false, "why": "latest examiner action is not a non-final rejection in the window", "at": "2026-10-22T15:03:11+00:00"}
+{"group": "F", "target": "F", "app": "18705812", "ok": false, "why": "claims before the rejection missing or not cleanly parsed", "at": "2026-10-22T15:03:13+00:00"}
+{"group": "F", "target": "F", "app": "19350990", "ok": true, "why": "", "at": "2026-10-22T15:03:15+00:00"}
+{"group": "F", "target": "F", "app": "18415185", "ok": true, "why": "", "at": "2026-10-22T15:03:17+00:00"}
+{"group": "F", "target": "F", "app": "19076059", "ok": true, "why": "", "at": "2026-10-22T15:03:19+00:00"}
+{"group": "F", "target": "F", "app": "18348811", "ok": true, "why": "", "at": "2026-10-22T15:03:22+00:00"}
+{"group": "F", "target": "F", "app": "19103709", "ok": false, "why": "not published by the rejection date", "at": "2026-10-22T15:03:23+00:00"}
+{"group": "F", "target": "F", "app": "18610084", "ok": true, "why": "", "at": "2026-10-22T15:03:26+00:00"}
+{"group": "F", "target": "F", "app": "19246764", "ok": true, "why": "", "at": "2026-10-22T15:03:28+00:00"}
+{"group": "F", "target": "F", "app": "18876653", "ok": true, "why": "", "at": "2026-10-22T15:03:31+00:00"}
+{"group": "F", "target": "F", "app": "19390334", "ok": true, "why": "", "at": "2026-10-22T15:03:33+00:00"}

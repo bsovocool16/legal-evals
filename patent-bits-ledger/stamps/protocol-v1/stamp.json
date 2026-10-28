@@ -1,0 +1,17 @@
+{
+ "name": "protocol-v1",
+ "tsa": "https://freetsa.org/tsr",
+ "time_utc": "2026-10-08T08:21:20+00:00",
+ "date_et": "2026-10-08",
+ "files_sha256": "39dce9878985edf644499bff9ca461b12fc3431ea1faa59b0885ea05770de5f7",
+ "files": [
+  "docs/research/patent-bits/PROTOCOL.md",
+  "docs/research/patent-bits/tsa/freetsa-cacert.pem",
+  "docs/research/patent-bits/tsa/freetsa-tsa.crt",
+  "scripts/patent_allowed/texts.py",
+  "scripts/patent_bits/bits.py",
+  "scripts/patent_bits/ledger.py",
+  "scripts/patent_probe/odp.py",
+  "tests/test_patent_bits.py"
+ ]
+}

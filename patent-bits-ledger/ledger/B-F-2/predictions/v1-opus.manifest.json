@@ -1,0 +1,11 @@
+{
+ "batch": "B-F-2",
+ "version": "v1-opus",
+ "version_hash": "4d7c52b32af62fd64ada10d4ecb87c2388b042eb4a5f05e83b711653995c5364",
+ "units": 120,
+ "units_expected": 120,
+ "records": 120,
+ "infra_failed_units": [],
+ "cost_usd": 10.19,
+ "records_sha256": "67d82d492b34c0e3d5a94f3e763c1d8c25192ef9aa610d9f224b13057a495bc9"
+}

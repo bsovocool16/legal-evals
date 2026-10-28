@@ -1,0 +1,559 @@
+{
+ "A-18661988": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18700313": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18925359": {
+  "resolved": false,
+  "held_until": "2026-11-04",
+  "provisional": {
+   "resolved": true,
+   "y": 1,
+   "action": "NOA",
+   "date": "2026-10-14",
+   "basis": "2026-10-14"
+  },
+  "checked": "2026-10-22"
+ },
+ "A-18975193": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18541662": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18786657": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18351664": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-17970008": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18896512": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18676180": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18624484": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18709224": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18591210": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-19071993": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18256684": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18975555": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18829431": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18305048": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18290879": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-17879051": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-17999593": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18544607": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18289719": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18949877": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-19630111": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18138994": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18805086": {
+  "resolved": false,
+  "held_until": "2026-11-11",
+  "provisional": {
+   "resolved": true,
+   "y": 0,
+   "action": "CTFR",
+   "date": "2026-10-21",
+   "basis": "2026-10-21"
+  },
+  "checked": "2026-10-22"
+ },
+ "A-18559347": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-19191230": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-19215505": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18239048": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-19086777": {
+  "resolved": false,
+  "held_until": "2026-11-04",
+  "provisional": {
+   "resolved": true,
+   "y": 1,
+   "action": "NOA",
+   "date": "2026-10-14",
+   "basis": "2026-10-14"
+  },
+  "checked": "2026-10-22"
+ },
+ "A-19043608": {
+  "resolved": false,
+  "held_until": "2026-10-30",
+  "provisional": {
+   "resolved": true,
+   "unscored": "activity inside the pending window",
+   "basis": "2026-10-09"
+  },
+  "checked": "2026-10-22"
+ },
+ "A-18554521": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18430072": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18648093": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18504786": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18376302": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18546493": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18933947": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18023130": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18760047": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18991719": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18673832": {
+  "resolved": false,
+  "held_until": "2026-11-12",
+  "provisional": {
+   "resolved": true,
+   "unscored": "non-compliance notice or supplemental response before the action",
+   "basis": "2026-10-22"
+  },
+  "checked": "2026-10-22"
+ },
+ "A-18564891": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18644452": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-19108232": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-17783161": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18117362": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18572908": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18473610": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18408204": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18395131": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18443350": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-19095698": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18418420": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18547791": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18699153": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18336635": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "A-18996534": {
+  "resolved": false,
+  "held_until": "2026-11-06",
+  "provisional": {
+   "resolved": true,
+   "y": 1,
+   "action": "NOA",
+   "date": "2026-10-16",
+   "basis": "2026-10-16"
+  },
+  "checked": "2026-10-22"
+ },
+ "F-19164781": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19225133": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19390566": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18913438": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19203253": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18440432": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18741228": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18714405": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18907350": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19092590": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19387160": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18009066": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18785630": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18833422": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19218767": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19257612": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19369622": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18834475": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18323951": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18383024": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18614256": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19441681": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18772716": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19027308": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19197913": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19179428": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18941161": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19426747": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19030697": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19156873": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19356699": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18924968": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18613881": {
+  "resolved": false,
+  "held_until": "2026-11-11",
+  "provisional": {
+   "resolved": true,
+   "unscored": "no cleanly parsed claims on the response date",
+   "basis": "2026-10-21"
+  },
+  "checked": "2026-10-22"
+ },
+ "F-19072673": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19114541": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18770648": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18733874": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18154890": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19065003": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18829170": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19395377": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18702117": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18592341": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18730854": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18711822": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18964964": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18889825": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18781436": {
+  "resolved": false,
+  "held_until": "2026-11-11",
+  "provisional": {
+   "resolved": true,
+   "response": "2026-10-21",
+   "labels": {
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0,
+    "8": 0,
+    "9": 0,
+    "10": 0,
+    "11": 0,
+    "12": 0,
+    "13": 0,
+    "14": 0,
+    "15": 0,
+    "16": 0,
+    "17": 0,
+    "18": 0,
+    "19": 0,
+    "20": 0
+   },
+   "basis": "2026-10-21"
+  },
+  "checked": "2026-10-22"
+ },
+ "F-18394853": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19262516": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18358135": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18150857": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18465868": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18287346": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18636433": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18859455": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18646055": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-19132888": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-18670955": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ },
+ "F-17913730": {
+  "resolved": false,
+  "checked": "2026-10-22"
+ }
+}

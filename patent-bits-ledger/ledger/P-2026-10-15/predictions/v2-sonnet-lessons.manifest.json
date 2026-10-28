@@ -1,0 +1,11 @@
+{
+ "batch": "P-2026-10-15",
+ "version": "v2-sonnet-lessons",
+ "version_hash": "d078728ab9e658eaf277a9f84f766a2eaf49e15b9512910d133023f71dd400e2",
+ "units": 60,
+ "units_expected": 60,
+ "records": 60,
+ "infra_failed_units": [],
+ "cost_usd": 4.76,
+ "records_sha256": "90693e9c9fe6115806bade96c1e37a26bf74df9bc84e1beadddfb2f0ddec8dad"
+}

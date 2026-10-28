@@ -1,0 +1,11 @@
+{
+ "batch": "B-A-2",
+ "version": "v2-sonnet-lessons",
+ "version_hash": "d078728ab9e658eaf277a9f84f766a2eaf49e15b9512910d133023f71dd400e2",
+ "units": 120,
+ "units_expected": 120,
+ "records": 187,
+ "infra_failed_units": [],
+ "cost_usd": 9.23,
+ "records_sha256": "7f0f1f3954d3f4d9014716585448b49f4d92ec155c2c9b9bd1b80c89920c4111"
+}

@@ -1,0 +1,1922 @@
+{
+ "A-17489286": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-01-07",
+  "basis": "2025-01-07",
+  "checked": "2026-10-08"
+ },
+ "A-17452318": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-04",
+  "basis": "2025-03-04",
+  "checked": "2026-10-08"
+ },
+ "A-18155626": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-01-17",
+  "basis": "2025-01-17",
+  "checked": "2026-10-08"
+ },
+ "A-16942459": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-02-20",
+  "basis": "2025-02-20",
+  "checked": "2026-10-08"
+ },
+ "A-17770459": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-02-12",
+  "basis": "2025-02-12",
+  "checked": "2026-10-08"
+ },
+ "A-17719459": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-15",
+  "basis": "2025-04-15",
+  "checked": "2026-10-08"
+ },
+ "A-18078459": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-01-15",
+  "basis": "2025-01-15",
+  "checked": "2026-10-08"
+ },
+ "A-17247459": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-20",
+  "basis": "2025-05-20",
+  "checked": "2026-10-08"
+ },
+ "A-17604560": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-09",
+  "basis": "2025-05-09",
+  "checked": "2026-10-08"
+ },
+ "A-17131626": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-04",
+  "basis": "2025-03-04",
+  "checked": "2026-10-08"
+ },
+ "A-17668447": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTNF",
+  "date": "2025-01-13",
+  "basis": "2025-01-13",
+  "checked": "2026-10-08"
+ },
+ "A-18223541": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-01-06",
+  "basis": "2025-01-06",
+  "checked": "2026-10-08"
+ },
+ "A-17758626": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-02-28",
+  "basis": "2025-02-28",
+  "checked": "2026-10-08"
+ },
+ "A-16652541": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-01-27",
+  "basis": "2025-01-27",
+  "checked": "2026-10-08"
+ },
+ "A-17475541": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-01-22",
+  "basis": "2025-01-22",
+  "checked": "2026-10-08"
+ },
+ "A-18212444": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-07-16",
+  "basis": "2025-07-16",
+  "checked": "2026-10-08"
+ },
+ "A-18435626": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2024-12-27",
+  "basis": "2024-12-27",
+  "checked": "2026-10-08"
+ },
+ "A-17786447": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-26",
+  "basis": "2025-03-26",
+  "checked": "2026-10-08"
+ },
+ "A-18593560": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-01-08",
+  "basis": "2025-01-08",
+  "checked": "2026-10-08"
+ },
+ "A-18173444": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-02-03",
+  "basis": "2025-02-03",
+  "checked": "2026-10-08"
+ },
+ "A-17909507": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-02-26",
+  "basis": "2025-02-26",
+  "checked": "2026-10-08"
+ },
+ "A-17911286": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-02-18",
+  "basis": "2025-02-18",
+  "checked": "2026-10-08"
+ },
+ "A-18066745": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-02-03",
+  "basis": "2025-02-03",
+  "checked": "2026-10-08"
+ },
+ "A-18382622": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-25",
+  "basis": "2025-03-25",
+  "checked": "2026-10-08"
+ },
+ "A-18315626": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-12",
+  "basis": "2025-03-12",
+  "checked": "2026-10-08"
+ },
+ "A-17825318": {
+  "resolved": true,
+  "y": 1,
+  "action": "CTEQ",
+  "date": "2025-04-08",
+  "basis": "2025-04-08",
+  "checked": "2026-10-08"
+ },
+ "A-17816494": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-18",
+  "basis": "2025-03-18",
+  "checked": "2026-10-08"
+ },
+ "A-17424459": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-28",
+  "basis": "2025-03-28",
+  "checked": "2026-10-08"
+ },
+ "A-17719626": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-01-10",
+  "basis": "2025-01-10",
+  "checked": "2026-10-08"
+ },
+ "A-17264745": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-01",
+  "basis": "2025-04-01",
+  "checked": "2026-10-08"
+ },
+ "A-18116745": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-15",
+  "basis": "2025-04-15",
+  "checked": "2026-10-08"
+ },
+ "A-17914494": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-05",
+  "basis": "2025-03-05",
+  "checked": "2026-10-08"
+ },
+ "A-18584494": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2024-12-23",
+  "basis": "2024-12-23",
+  "checked": "2026-10-08"
+ },
+ "A-17985459": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-01-15",
+  "basis": "2025-01-15",
+  "checked": "2026-10-08"
+ },
+ "A-16703626": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-02",
+  "basis": "2025-04-02",
+  "checked": "2026-10-08"
+ },
+ "A-17207622": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-02-18",
+  "basis": "2025-02-18",
+  "checked": "2026-10-08"
+ },
+ "A-16984626": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-01-30",
+  "basis": "2025-01-30",
+  "checked": "2026-10-08"
+ },
+ "A-17620286": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-01-16",
+  "basis": "2025-01-16",
+  "checked": "2026-10-08"
+ },
+ "A-17442318": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-07",
+  "basis": "2025-05-07",
+  "checked": "2026-10-08"
+ },
+ "A-18206974": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-01-15",
+  "basis": "2025-01-15",
+  "checked": "2026-10-08"
+ },
+ "A-17633009": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-01-28",
+  "basis": "2025-01-28",
+  "checked": "2026-10-08"
+ },
+ "A-17093938": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-02-19",
+  "basis": "2025-02-19",
+  "checked": "2026-10-08"
+ },
+ "A-17755626": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-01-21",
+  "basis": "2025-01-21",
+  "checked": "2026-10-08"
+ },
+ "A-17893071": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-02-25",
+  "basis": "2025-02-25",
+  "checked": "2026-10-08"
+ },
+ "A-17840938": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-31",
+  "basis": "2025-03-31",
+  "checked": "2026-10-08"
+ },
+ "A-17782009": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-17",
+  "basis": "2025-03-17",
+  "checked": "2026-10-08"
+ },
+ "A-17863447": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-11",
+  "basis": "2025-03-11",
+  "checked": "2026-10-08"
+ },
+ "A-17858391": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-01-29",
+  "basis": "2025-01-29",
+  "checked": "2026-10-08"
+ },
+ "A-18281447": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-14",
+  "basis": "2025-03-14",
+  "checked": "2026-10-08"
+ },
+ "A-18086071": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-13",
+  "basis": "2025-03-13",
+  "checked": "2026-10-08"
+ },
+ "A-17746071": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-02-24",
+  "basis": "2025-02-24",
+  "checked": "2026-10-08"
+ },
+ "A-18144622": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-01-29",
+  "basis": "2025-01-29",
+  "checked": "2026-10-08"
+ },
+ "A-18297845": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-02-04",
+  "basis": "2025-02-04",
+  "checked": "2026-10-08"
+ },
+ "A-17866494": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-02-24",
+  "basis": "2025-02-24",
+  "checked": "2026-10-08"
+ },
+ "A-18057459": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTNF",
+  "date": "2025-03-10",
+  "basis": "2025-03-10",
+  "checked": "2026-10-08"
+ },
+ "A-18044938": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-02",
+  "basis": "2025-04-02",
+  "checked": "2026-10-08"
+ },
+ "A-17724745": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-04",
+  "basis": "2025-03-04",
+  "checked": "2026-10-08"
+ },
+ "A-17901974": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-08",
+  "basis": "2025-04-08",
+  "checked": "2026-10-08"
+ },
+ "A-17769459": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-13",
+  "basis": "2025-03-13",
+  "checked": "2026-10-08"
+ },
+ "A-17531745": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-02",
+  "basis": "2025-04-02",
+  "checked": "2026-10-08"
+ },
+ "A-17406622": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-17",
+  "basis": "2025-04-17",
+  "checked": "2026-10-08"
+ },
+ "A-17189622": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-26",
+  "basis": "2025-03-26",
+  "checked": "2026-10-08"
+ },
+ "A-17901560": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-04",
+  "basis": "2025-03-04",
+  "checked": "2026-10-08"
+ },
+ "A-18384517": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-02-14",
+  "basis": "2025-02-14",
+  "checked": "2026-10-08"
+ },
+ "A-17558302": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-01-21",
+  "basis": "2025-01-21",
+  "checked": "2026-10-08"
+ },
+ "A-17395845": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-29",
+  "basis": "2025-04-29",
+  "checked": "2026-10-08"
+ },
+ "A-18255517": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-03",
+  "basis": "2025-04-03",
+  "checked": "2026-10-08"
+ },
+ "A-17927444": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-02-18",
+  "basis": "2025-02-18",
+  "checked": "2026-10-08"
+ },
+ "A-18352745": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-07-02",
+  "basis": "2025-07-02",
+  "checked": "2026-10-08"
+ },
+ "A-17535009": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-06",
+  "basis": "2025-03-06",
+  "checked": "2026-10-08"
+ },
+ "A-18395252": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTNF",
+  "date": "2025-02-20",
+  "basis": "2025-02-20",
+  "checked": "2026-10-08"
+ },
+ "A-17293845": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-24",
+  "basis": "2025-06-24",
+  "checked": "2026-10-08"
+ },
+ "A-18125071": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-02-26",
+  "basis": "2025-02-26",
+  "checked": "2026-10-08"
+ },
+ "A-17720447": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-02-10",
+  "basis": "2025-02-10",
+  "checked": "2026-10-08"
+ },
+ "A-18041071": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-05",
+  "basis": "2025-03-05",
+  "checked": "2026-10-08"
+ },
+ "A-17088302": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-01-16",
+  "basis": "2025-01-16",
+  "checked": "2026-10-08"
+ },
+ "A-17792560": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-02-28",
+  "basis": "2025-02-28",
+  "checked": "2026-10-08"
+ },
+ "A-17512447": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-18",
+  "basis": "2025-04-18",
+  "checked": "2026-10-08"
+ },
+ "A-17464980": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-02-19",
+  "basis": "2025-02-19",
+  "checked": "2026-10-08"
+ },
+ "A-18597974": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-28",
+  "basis": "2025-04-28",
+  "checked": "2026-10-08"
+ },
+ "A-17295541": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-09",
+  "basis": "2025-06-09",
+  "checked": "2026-10-08"
+ },
+ "A-17892447": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-27",
+  "basis": "2025-03-27",
+  "checked": "2026-10-08"
+ },
+ "A-17743560": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTNF",
+  "date": "2025-02-20",
+  "basis": "2025-02-20",
+  "checked": "2026-10-08"
+ },
+ "A-18235622": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-19",
+  "basis": "2025-03-19",
+  "checked": "2026-10-08"
+ },
+ "A-17437974": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-09",
+  "basis": "2025-04-09",
+  "checked": "2026-10-08"
+ },
+ "A-17963938": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-01",
+  "basis": "2025-04-01",
+  "checked": "2026-10-08"
+ },
+ "A-17515306": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-10-01",
+  "basis": "2025-10-01",
+  "checked": "2026-10-08"
+ },
+ "A-17371938": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-12",
+  "basis": "2025-03-12",
+  "checked": "2026-10-08"
+ },
+ "A-17874626": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-04",
+  "basis": "2025-03-04",
+  "checked": "2026-10-08"
+ },
+ "A-17821626": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-02-20",
+  "basis": "2025-02-20",
+  "checked": "2026-10-08"
+ },
+ "A-18512541": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-07",
+  "basis": "2025-04-07",
+  "checked": "2026-10-08"
+ },
+ "A-17889444": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-02",
+  "basis": "2025-04-02",
+  "checked": "2026-10-08"
+ },
+ "A-17613009": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-29",
+  "basis": "2025-04-29",
+  "checked": "2026-10-08"
+ },
+ "A-18120622": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-02-24",
+  "basis": "2025-02-24",
+  "checked": "2026-10-08"
+ },
+ "A-18082974": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-03",
+  "basis": "2025-04-03",
+  "checked": "2026-10-08"
+ },
+ "A-18104444": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTNF",
+  "date": "2025-05-06",
+  "basis": "2025-05-06",
+  "checked": "2026-10-08"
+ },
+ "A-18069391": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-02-19",
+  "basis": "2025-02-19",
+  "checked": "2026-10-08"
+ },
+ "A-18359507": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-04",
+  "basis": "2025-04-04",
+  "checked": "2026-10-08"
+ },
+ "A-17887286": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-02-21",
+  "basis": "2025-02-21",
+  "checked": "2026-10-08"
+ },
+ "A-17156560": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-02-28",
+  "basis": "2025-02-28",
+  "checked": "2026-10-08"
+ },
+ "A-17574983": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-24",
+  "basis": "2025-03-24",
+  "checked": "2026-10-08"
+ },
+ "A-17806980": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-02-26",
+  "basis": "2025-02-26",
+  "checked": "2026-10-08"
+ },
+ "A-17947517": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-28",
+  "basis": "2025-05-28",
+  "checked": "2026-10-08"
+ },
+ "A-17845845": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-12",
+  "basis": "2025-03-12",
+  "checked": "2026-10-08"
+ },
+ "A-17776507": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-28",
+  "basis": "2025-05-28",
+  "checked": "2026-10-08"
+ },
+ "A-18260318": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-14",
+  "basis": "2025-03-14",
+  "checked": "2026-10-08"
+ },
+ "A-17690980": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-28",
+  "basis": "2025-05-28",
+  "checked": "2026-10-08"
+ },
+ "A-17361974": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-10",
+  "basis": "2025-06-10",
+  "checked": "2026-10-08"
+ },
+ "A-18233560": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-04",
+  "basis": "2025-04-04",
+  "checked": "2026-10-08"
+ },
+ "A-18070607": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-06",
+  "basis": "2025-06-06",
+  "checked": "2026-10-08"
+ },
+ "A-18651009": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-19",
+  "basis": "2025-03-19",
+  "checked": "2026-10-08"
+ },
+ "A-18008252": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-07-02",
+  "basis": "2025-07-02",
+  "checked": "2026-10-08"
+ },
+ "A-17999252": {
+  "resolved": true,
+  "y": 1,
+  "action": "CTEQ",
+  "date": "2025-04-08",
+  "basis": "2025-04-08",
+  "checked": "2026-10-08"
+ },
+ "A-18112974": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-19",
+  "basis": "2025-05-19",
+  "checked": "2026-10-08"
+ },
+ "A-18246626": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-01",
+  "basis": "2025-04-01",
+  "checked": "2026-10-08"
+ },
+ "A-17561745": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-28",
+  "basis": "2025-03-28",
+  "checked": "2026-10-08"
+ },
+ "A-18035306": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-10",
+  "basis": "2025-03-10",
+  "checked": "2026-10-08"
+ },
+ "A-17765607": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-20",
+  "basis": "2025-05-20",
+  "checked": "2026-10-08"
+ },
+ "A-17854541": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-03",
+  "basis": "2025-03-03",
+  "checked": "2026-10-08"
+ },
+ "A-17625009": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-30",
+  "basis": "2025-04-30",
+  "checked": "2026-10-08"
+ },
+ "A-18352195": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-06",
+  "basis": "2025-06-06",
+  "checked": "2026-10-08"
+ },
+ "A-17790009": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTNF",
+  "date": "2025-05-05",
+  "basis": "2025-05-05",
+  "checked": "2026-10-08"
+ },
+ "A-17827459": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-26",
+  "basis": "2025-03-26",
+  "checked": "2026-10-08"
+ },
+ "A-18133459": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-19",
+  "basis": "2025-03-19",
+  "checked": "2026-10-08"
+ },
+ "A-18439391": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTNF",
+  "date": "2025-07-14",
+  "basis": "2025-07-14",
+  "checked": "2026-10-08"
+ },
+ "A-17742983": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTNF",
+  "date": "2025-04-29",
+  "basis": "2025-04-29",
+  "checked": "2026-10-08"
+ },
+ "A-17254318": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-02-26",
+  "basis": "2025-02-26",
+  "checked": "2026-10-08"
+ },
+ "A-18303306": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-28",
+  "basis": "2025-04-28",
+  "checked": "2026-10-08"
+ },
+ "A-17735071": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-18",
+  "basis": "2025-03-18",
+  "checked": "2026-10-08"
+ },
+ "A-16922306": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-07-07",
+  "basis": "2025-07-07",
+  "checked": "2026-10-08"
+ },
+ "A-17829195": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-02",
+  "basis": "2025-06-02",
+  "checked": "2026-10-08"
+ },
+ "A-18522507": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-02-14",
+  "basis": "2025-02-14",
+  "checked": "2026-10-08"
+ },
+ "A-18120318": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-31",
+  "basis": "2025-03-31",
+  "checked": "2026-10-08"
+ },
+ "A-16607974": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-07-21",
+  "basis": "2025-07-21",
+  "checked": "2026-10-08"
+ },
+ "A-17755459": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-14",
+  "basis": "2025-04-14",
+  "checked": "2026-10-08"
+ },
+ "A-18648391": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-18",
+  "basis": "2025-04-18",
+  "checked": "2026-10-08"
+ },
+ "A-17893626": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-06-10",
+  "basis": "2025-06-10",
+  "checked": "2026-10-08"
+ },
+ "A-17624507": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-14",
+  "basis": "2025-05-14",
+  "checked": "2026-10-08"
+ },
+ "A-17476607": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-06-03",
+  "basis": "2025-06-03",
+  "checked": "2026-10-08"
+ },
+ "A-17621938": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-07-02",
+  "basis": "2025-07-02",
+  "checked": "2026-10-08"
+ },
+ "A-18068459": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-08-04",
+  "basis": "2025-08-04",
+  "checked": "2026-10-08"
+ },
+ "A-17814845": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-07-25",
+  "basis": "2025-07-25",
+  "checked": "2026-10-08"
+ },
+ "A-17759626": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-09",
+  "basis": "2025-04-09",
+  "checked": "2026-10-08"
+ },
+ "A-18655507": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-11",
+  "basis": "2025-04-11",
+  "checked": "2026-10-08"
+ },
+ "A-17856974": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-02",
+  "basis": "2025-06-02",
+  "checked": "2026-10-08"
+ },
+ "A-18114622": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-06",
+  "basis": "2025-05-06",
+  "checked": "2026-10-08"
+ },
+ "A-17022447": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-04",
+  "basis": "2025-06-04",
+  "checked": "2026-10-08"
+ },
+ "A-16984444": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-09-02",
+  "basis": "2025-09-02",
+  "checked": "2026-10-08"
+ },
+ "A-18326626": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-06-03",
+  "basis": "2025-06-03",
+  "checked": "2026-10-08"
+ },
+ "A-17891626": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-22",
+  "basis": "2025-04-22",
+  "checked": "2026-10-08"
+ },
+ "A-17797459": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-29",
+  "basis": "2025-05-29",
+  "checked": "2026-10-08"
+ },
+ "A-18663507": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-07",
+  "basis": "2025-04-07",
+  "checked": "2026-10-08"
+ },
+ "A-17808507": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-24",
+  "basis": "2025-06-24",
+  "checked": "2026-10-08"
+ },
+ "A-17706845": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-14",
+  "basis": "2025-04-14",
+  "checked": "2026-10-08"
+ },
+ "A-17810507": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-02-26",
+  "basis": "2025-02-26",
+  "checked": "2026-10-08"
+ },
+ "A-17789286": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-02",
+  "basis": "2025-06-02",
+  "checked": "2026-10-08"
+ },
+ "A-17901845": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-13",
+  "basis": "2025-05-13",
+  "checked": "2026-10-08"
+ },
+ "A-18511845": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-09",
+  "basis": "2025-04-09",
+  "checked": "2026-10-08"
+ },
+ "A-18122459": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-14",
+  "basis": "2025-04-14",
+  "checked": "2026-10-08"
+ },
+ "A-17774626": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-07",
+  "basis": "2025-05-07",
+  "checked": "2026-10-08"
+ },
+ "A-17785494": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-23",
+  "basis": "2025-05-23",
+  "checked": "2026-10-08"
+ },
+ "A-18166302": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-26",
+  "basis": "2025-03-26",
+  "checked": "2026-10-08"
+ },
+ "A-18030607": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-23",
+  "basis": "2025-04-23",
+  "checked": "2026-10-08"
+ },
+ "A-18613541": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-02-06",
+  "basis": "2025-02-06",
+  "checked": "2026-10-08"
+ },
+ "A-17817318": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-16",
+  "basis": "2025-05-16",
+  "checked": "2026-10-08"
+ },
+ "A-17659071": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-07",
+  "basis": "2025-05-07",
+  "checked": "2026-10-08"
+ },
+ "A-17805447": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-12",
+  "basis": "2025-05-12",
+  "checked": "2026-10-08"
+ },
+ "A-18084517": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-14",
+  "basis": "2025-05-14",
+  "checked": "2026-10-08"
+ },
+ "A-17837195": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-25",
+  "basis": "2025-03-25",
+  "checked": "2026-10-08"
+ },
+ "A-17597560": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-07",
+  "basis": "2025-05-07",
+  "checked": "2026-10-08"
+ },
+ "A-17899391": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-14",
+  "basis": "2025-04-14",
+  "checked": "2026-10-08"
+ },
+ "A-17648745": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-06-25",
+  "basis": "2025-06-25",
+  "checked": "2026-10-08"
+ },
+ "A-18587622": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-25",
+  "basis": "2025-04-25",
+  "checked": "2026-10-08"
+ },
+ "A-17894541": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-20",
+  "basis": "2025-05-20",
+  "checked": "2026-10-08"
+ },
+ "A-17951444": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-02",
+  "basis": "2025-04-02",
+  "checked": "2026-10-08"
+ },
+ "A-17434318": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-05",
+  "basis": "2025-05-05",
+  "checked": "2026-10-08"
+ },
+ "A-16961622": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-10-09",
+  "basis": "2025-10-09",
+  "checked": "2026-10-08"
+ },
+ "A-17954494": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-08",
+  "basis": "2025-05-08",
+  "checked": "2026-10-08"
+ },
+ "A-17545575": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-04-15",
+  "basis": "2025-04-15",
+  "checked": "2026-10-08"
+ },
+ "A-17725622": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-07-08",
+  "basis": "2025-07-08",
+  "checked": "2026-10-08"
+ },
+ "A-18453575": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-04",
+  "basis": "2025-06-04",
+  "checked": "2026-10-08"
+ },
+ "A-17129507": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-18",
+  "basis": "2025-04-18",
+  "checked": "2026-10-08"
+ },
+ "A-17426626": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-14",
+  "basis": "2025-05-14",
+  "checked": "2026-10-08"
+ },
+ "A-17112306": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-28",
+  "basis": "2025-05-28",
+  "checked": "2026-10-08"
+ },
+ "A-17809445": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-02",
+  "basis": "2025-05-02",
+  "checked": "2026-10-08"
+ },
+ "A-18198517": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-07-22",
+  "basis": "2025-07-22",
+  "checked": "2026-10-08"
+ },
+ "A-17048845": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-25",
+  "basis": "2025-06-25",
+  "checked": "2026-10-08"
+ },
+ "A-17755622": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-29",
+  "basis": "2025-05-29",
+  "checked": "2026-10-08"
+ },
+ "A-17971507": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-10-22",
+  "basis": "2025-10-22",
+  "checked": "2026-10-08"
+ },
+ "A-17930195": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-07-07",
+  "basis": "2025-07-07",
+  "checked": "2026-10-08"
+ },
+ "A-18108507": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-07-02",
+  "basis": "2025-07-02",
+  "checked": "2026-10-08"
+ },
+ "A-17884983": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-06-17",
+  "basis": "2025-06-17",
+  "checked": "2026-10-08"
+ },
+ "A-18065560": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-14",
+  "basis": "2025-04-14",
+  "checked": "2026-10-08"
+ },
+ "A-17532607": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-03-28",
+  "basis": "2025-03-28",
+  "checked": "2026-10-08"
+ },
+ "A-18529980": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-08-28",
+  "basis": "2025-08-28",
+  "checked": "2026-10-08"
+ },
+ "A-18203446": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-01",
+  "basis": "2025-05-01",
+  "checked": "2026-10-08"
+ },
+ "A-17440445": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-10-16",
+  "basis": "2025-10-16",
+  "checked": "2026-10-08"
+ },
+ "A-18680938": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-15",
+  "basis": "2025-04-15",
+  "checked": "2026-10-08"
+ },
+ "A-17672286": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-09-30",
+  "basis": "2025-09-30",
+  "checked": "2026-10-08"
+ },
+ "A-17794948": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-07-24",
+  "basis": "2025-07-24",
+  "checked": "2026-10-08"
+ },
+ "A-17768286": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-03-19",
+  "basis": "2025-03-19",
+  "checked": "2026-10-08"
+ },
+ "A-18335009": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-23",
+  "basis": "2025-05-23",
+  "checked": "2026-10-08"
+ },
+ "A-18557626": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-06-26",
+  "basis": "2025-06-26",
+  "checked": "2026-10-08"
+ },
+ "A-17497507": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-08-20",
+  "basis": "2025-08-20",
+  "checked": "2026-10-08"
+ },
+ "A-17779306": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-07-08",
+  "basis": "2025-07-08",
+  "checked": "2026-10-08"
+ },
+ "A-18052560": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-05",
+  "basis": "2025-06-05",
+  "checked": "2026-10-08"
+ },
+ "A-17916541": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-09",
+  "basis": "2025-05-09",
+  "checked": "2026-10-08"
+ },
+ "A-18361983": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-05",
+  "basis": "2025-06-05",
+  "checked": "2026-10-08"
+ },
+ "A-18132983": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-23",
+  "basis": "2025-06-23",
+  "checked": "2026-10-08"
+ },
+ "A-18735983": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-19",
+  "basis": "2025-05-19",
+  "checked": "2026-10-08"
+ },
+ "A-17557015": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-08-12",
+  "basis": "2025-08-12",
+  "checked": "2026-10-08"
+ },
+ "A-18736626": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-06-17",
+  "basis": "2025-06-17",
+  "checked": "2026-10-08"
+ },
+ "A-17931071": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-29",
+  "basis": "2025-05-29",
+  "checked": "2026-10-08"
+ },
+ "A-17713575": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-19",
+  "basis": "2025-05-19",
+  "checked": "2026-10-08"
+ },
+ "A-17952980": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-07-18",
+  "basis": "2025-07-18",
+  "checked": "2026-10-08"
+ },
+ "A-17995015": {
+  "resolved": true,
+  "y": 1,
+  "action": "CTEQ",
+  "date": "2025-07-09",
+  "basis": "2025-07-09",
+  "checked": "2026-10-08"
+ },
+ "A-18120444": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-08-07",
+  "basis": "2025-08-07",
+  "checked": "2026-10-08"
+ },
+ "A-18574845": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-08-08",
+  "basis": "2025-08-08",
+  "checked": "2026-10-08"
+ },
+ "A-18327626": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-09-16",
+  "basis": "2025-09-16",
+  "checked": "2026-10-08"
+ },
+ "A-18075507": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-15",
+  "basis": "2025-05-15",
+  "checked": "2026-10-08"
+ },
+ "A-17538845": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-02",
+  "basis": "2025-06-02",
+  "checked": "2026-10-08"
+ },
+ "A-18668507": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-07-29",
+  "basis": "2025-07-29",
+  "checked": "2026-10-08"
+ },
+ "A-18312286": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-07-29",
+  "basis": "2025-07-29",
+  "checked": "2026-10-08"
+ },
+ "A-18242494": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-26",
+  "basis": "2025-06-26",
+  "checked": "2026-10-08"
+ },
+ "A-18423306": {
+  "resolved": true,
+  "y": 1,
+  "action": "CTEQ",
+  "date": "2025-09-09",
+  "basis": "2025-09-09",
+  "checked": "2026-10-08"
+ },
+ "A-18046607": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-07-07",
+  "basis": "2025-07-07",
+  "checked": "2026-10-08"
+ },
+ "A-18017938": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-13",
+  "basis": "2025-05-13",
+  "checked": "2026-10-08"
+ },
+ "A-18086318": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-07-08",
+  "basis": "2025-07-08",
+  "checked": "2026-10-08"
+ },
+ "A-18316459": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-28",
+  "basis": "2025-05-28",
+  "checked": "2026-10-08"
+ },
+ "A-18081845": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-12",
+  "basis": "2025-05-12",
+  "checked": "2026-10-08"
+ },
+ "A-18263447": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-05-15",
+  "basis": "2025-05-15",
+  "checked": "2026-10-08"
+ },
+ "A-17904444": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-06-26",
+  "basis": "2025-06-26",
+  "checked": "2026-10-08"
+ },
+ "A-17907009": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-07-23",
+  "basis": "2025-07-23",
+  "checked": "2026-10-08"
+ },
+ "A-18169009": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-07-08",
+  "basis": "2025-07-08",
+  "checked": "2026-10-08"
+ },
+ "A-18009626": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-07-02",
+  "basis": "2025-07-02",
+  "checked": "2026-10-08"
+ },
+ "A-17905447": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-09-08",
+  "basis": "2025-09-08",
+  "checked": "2026-10-08"
+ },
+ "A-18022974": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-04-10",
+  "basis": "2025-04-10",
+  "checked": "2026-10-08"
+ },
+ "A-18124286": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-05",
+  "basis": "2025-05-05",
+  "checked": "2026-10-08"
+ },
+ "A-17793938": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2025-07-01",
+  "basis": "2025-07-01",
+  "checked": "2026-10-08"
+ },
+ "A-18028507": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2025-05-08",
+  "basis": "2025-05-08",
+  "checked": "2026-10-08"
+ }
+}

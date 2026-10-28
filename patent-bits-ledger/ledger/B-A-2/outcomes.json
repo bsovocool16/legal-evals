@@ -1,0 +1,858 @@
+{
+ "A-18845794": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-23",
+  "checked": "2026-10-08"
+ },
+ "A-17078850": {
+  "resolved": true,
+  "unscored": "action after 64 days",
+  "basis": "2026-09-22",
+  "checked": "2026-10-08"
+ },
+ "A-17881166": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTNF",
+  "date": "2026-08-24",
+  "basis": "2026-08-24",
+  "checked": "2026-10-08"
+ },
+ "A-18844696": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-02",
+  "basis": "2026-09-02",
+  "checked": "2026-10-08"
+ },
+ "A-18834939": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-26",
+  "checked": "2026-10-08"
+ },
+ "A-18932065": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-08-13",
+  "basis": "2026-08-13",
+  "checked": "2026-10-08"
+ },
+ "A-18284166": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-08-14",
+  "basis": "2026-08-14",
+  "checked": "2026-10-08"
+ },
+ "A-18653446": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-16",
+  "basis": "2026-09-16",
+  "checked": "2026-10-08"
+ },
+ "A-19383199": {
+  "resolved": true,
+  "unscored": "no action by the evaluation date",
+  "basis": "2026-09-30",
+  "checked": "2026-10-08"
+ },
+ "A-18609295": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-22",
+  "basis": "2026-09-22",
+  "checked": "2026-10-08"
+ },
+ "A-18216035": {
+  "resolved": true,
+  "unscored": "action after 64 days",
+  "basis": "2026-09-21",
+  "checked": "2026-10-08"
+ },
+ "A-18501331": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-17",
+  "checked": "2026-10-08"
+ },
+ "A-18693295": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-29",
+  "checked": "2026-10-08"
+ },
+ "A-17613065": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-22",
+  "checked": "2026-10-08"
+ },
+ "A-18477166": {
+  "resolved": true,
+  "unscored": "action after 64 days",
+  "basis": "2026-09-29",
+  "checked": "2026-10-08"
+ },
+ "A-18918446": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-22",
+  "checked": "2026-10-08"
+ },
+ "A-18490583": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-26",
+  "checked": "2026-10-08"
+ },
+ "A-17813295": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-24",
+  "checked": "2026-10-08"
+ },
+ "A-18572162": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-15",
+  "basis": "2026-09-15",
+  "checked": "2026-10-08"
+ },
+ "A-18780162": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-09",
+  "basis": "2026-09-09",
+  "checked": "2026-10-08"
+ },
+ "A-18387380": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-08-21",
+  "basis": "2026-08-21",
+  "checked": "2026-10-08"
+ },
+ "A-18266816": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-08-17",
+  "basis": "2026-08-17",
+  "checked": "2026-10-08"
+ },
+ "A-18490162": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-02",
+  "basis": "2026-09-02",
+  "checked": "2026-10-08"
+ },
+ "A-18656377": {
+  "resolved": true,
+  "unscored": "no action by the evaluation date",
+  "basis": "2026-09-30",
+  "checked": "2026-10-08"
+ },
+ "A-18437166": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-08-21",
+  "basis": "2026-08-21",
+  "checked": "2026-10-08"
+ },
+ "A-18662331": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-26",
+  "checked": "2026-10-08"
+ },
+ "A-18027525": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-11",
+  "basis": "2026-09-11",
+  "checked": "2026-10-08"
+ },
+ "A-18928939": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-25",
+  "checked": "2026-10-08"
+ },
+ "A-18318380": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-09",
+  "basis": "2026-09-09",
+  "checked": "2026-10-08"
+ },
+ "A-18271696": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-10",
+  "basis": "2026-09-10",
+  "checked": "2026-10-08"
+ },
+ "A-17904035": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-18",
+  "basis": "2026-09-18",
+  "checked": "2026-10-08"
+ },
+ "A-18040237": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-10",
+  "basis": "2026-09-10",
+  "checked": "2026-10-08"
+ },
+ "A-18677295": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-08-20",
+  "basis": "2026-08-20",
+  "checked": "2026-10-08"
+ },
+ "A-18287166": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-08-14",
+  "basis": "2026-08-14",
+  "checked": "2026-10-08"
+ },
+ "A-18410329": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-14",
+  "basis": "2026-09-14",
+  "checked": "2026-10-08"
+ },
+ "A-18952910": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-19",
+  "checked": "2026-10-08"
+ },
+ "A-18882035": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-24",
+  "basis": "2026-09-24",
+  "checked": "2026-10-08"
+ },
+ "A-18970539": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-08-25",
+  "basis": "2026-08-25",
+  "checked": "2026-10-08"
+ },
+ "A-18540539": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-25",
+  "basis": "2026-09-25",
+  "checked": "2026-10-08"
+ },
+ "A-17896329": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-02",
+  "basis": "2026-09-02",
+  "checked": "2026-10-08"
+ },
+ "A-18285380": {
+  "resolved": true,
+  "unscored": "action after 64 days",
+  "basis": "2026-09-18",
+  "checked": "2026-10-08"
+ },
+ "A-17211850": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-01",
+  "basis": "2026-09-01",
+  "checked": "2026-10-08"
+ },
+ "A-18437295": {
+  "resolved": true,
+  "unscored": "action after 64 days",
+  "basis": "2026-09-22",
+  "checked": "2026-10-08"
+ },
+ "A-18187850": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-10",
+  "basis": "2026-09-10",
+  "checked": "2026-10-08"
+ },
+ "A-18418195": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-18",
+  "checked": "2026-10-08"
+ },
+ "A-18259380": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-24",
+  "basis": "2026-09-24",
+  "checked": "2026-10-08"
+ },
+ "A-18402539": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTNF",
+  "date": "2026-08-27",
+  "basis": "2026-08-27",
+  "checked": "2026-10-08"
+ },
+ "A-17935794": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-26",
+  "checked": "2026-10-08"
+ },
+ "A-18192199": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-18",
+  "basis": "2026-09-18",
+  "checked": "2026-10-08"
+ },
+ "A-19083295": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-17",
+  "basis": "2026-09-17",
+  "checked": "2026-10-08"
+ },
+ "A-19009816": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-17",
+  "checked": "2026-10-08"
+ },
+ "A-18793583": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-10",
+  "basis": "2026-09-10",
+  "checked": "2026-10-08"
+ },
+ "A-18290536": {
+  "resolved": true,
+  "unscored": "action after 64 days",
+  "basis": "2026-09-28",
+  "checked": "2026-10-08"
+ },
+ "A-19194539": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-15",
+  "basis": "2026-09-15",
+  "checked": "2026-10-08"
+ },
+ "A-18485035": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-08-14",
+  "basis": "2026-08-14",
+  "checked": "2026-10-08"
+ },
+ "A-18753166": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-25",
+  "checked": "2026-10-08"
+ },
+ "A-18888446": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-08-17",
+  "basis": "2026-08-17",
+  "checked": "2026-10-08"
+ },
+ "A-18238525": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-08-25",
+  "basis": "2026-08-25",
+  "checked": "2026-10-08"
+ },
+ "A-18981446": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-19",
+  "checked": "2026-10-08"
+ },
+ "A-17502525": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-23",
+  "checked": "2026-10-08"
+ },
+ "A-19073696": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-22",
+  "basis": "2026-09-22",
+  "checked": "2026-10-08"
+ },
+ "A-19064162": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-26",
+  "checked": "2026-10-08"
+ },
+ "A-19290035": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-08-17",
+  "basis": "2026-08-17",
+  "checked": "2026-10-08"
+ },
+ "A-19032525": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-08-25",
+  "basis": "2026-08-25",
+  "checked": "2026-10-08"
+ },
+ "A-19009035": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-25",
+  "checked": "2026-10-08"
+ },
+ "A-19035329": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-08-28",
+  "basis": "2026-08-28",
+  "checked": "2026-10-08"
+ },
+ "A-18249525": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-02",
+  "basis": "2026-09-02",
+  "checked": "2026-10-08"
+ },
+ "A-18886331": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-23",
+  "checked": "2026-10-08"
+ },
+ "A-18780536": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-16",
+  "basis": "2026-09-16",
+  "checked": "2026-10-08"
+ },
+ "A-18708446": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-29",
+  "checked": "2026-10-08"
+ },
+ "A-18227331": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-22",
+  "checked": "2026-10-08"
+ },
+ "A-18648329": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-18",
+  "checked": "2026-10-08"
+ },
+ "A-19187583": {
+  "resolved": true,
+  "unscored": "non-compliance notice or supplemental response before the action",
+  "basis": "2026-09-15",
+  "checked": "2026-10-08"
+ },
+ "A-18637850": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-29",
+  "checked": "2026-10-08"
+ },
+ "A-18539696": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-11",
+  "basis": "2026-09-11",
+  "checked": "2026-10-08"
+ },
+ "A-18772939": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-17",
+  "checked": "2026-10-08"
+ },
+ "A-18837380": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-01",
+  "basis": "2026-09-01",
+  "checked": "2026-10-08"
+ },
+ "A-18829331": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-21",
+  "checked": "2026-10-08"
+ },
+ "A-19353295": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-08-18",
+  "basis": "2026-08-18",
+  "checked": "2026-10-08"
+ },
+ "A-18087162": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-22",
+  "checked": "2026-10-08"
+ },
+ "A-18606696": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-10",
+  "basis": "2026-09-10",
+  "checked": "2026-10-08"
+ },
+ "A-18630199": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-15",
+  "basis": "2026-09-15",
+  "checked": "2026-10-08"
+ },
+ "A-18721525": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-14",
+  "basis": "2026-09-14",
+  "checked": "2026-10-08"
+ },
+ "A-18257794": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-19",
+  "checked": "2026-10-08"
+ },
+ "A-18519696": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-03",
+  "basis": "2026-09-03",
+  "checked": "2026-10-08"
+ },
+ "A-18714065": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-21",
+  "basis": "2026-09-21",
+  "checked": "2026-10-08"
+ },
+ "A-18986696": {
+  "resolved": true,
+  "y": 1,
+  "action": "CTEQ",
+  "date": "2026-09-10",
+  "basis": "2026-09-10",
+  "checked": "2026-10-08"
+ },
+ "A-17977696": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-26",
+  "checked": "2026-10-08"
+ },
+ "A-18240237": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-24",
+  "checked": "2026-10-08"
+ },
+ "A-17832696": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-24",
+  "checked": "2026-10-08"
+ },
+ "A-18790583": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-03",
+  "basis": "2026-09-03",
+  "checked": "2026-10-08"
+ },
+ "A-18615794": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-26",
+  "checked": "2026-10-08"
+ },
+ "A-18784377": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-17",
+  "checked": "2026-10-08"
+ },
+ "A-18271331": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-11",
+  "basis": "2026-09-11",
+  "checked": "2026-10-08"
+ },
+ "A-18706539": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-08",
+  "basis": "2026-09-08",
+  "checked": "2026-10-08"
+ },
+ "A-17783446": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-24",
+  "checked": "2026-10-08"
+ },
+ "A-18735380": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-08-31",
+  "basis": "2026-08-31",
+  "checked": "2026-10-08"
+ },
+ "A-18883295": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-08-27",
+  "basis": "2026-08-27",
+  "checked": "2026-10-08"
+ },
+ "A-18419380": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-14",
+  "basis": "2026-09-14",
+  "checked": "2026-10-08"
+ },
+ "A-18192446": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-29",
+  "checked": "2026-10-08"
+ },
+ "A-18399199": {
+  "resolved": true,
+  "unscored": "no action by the evaluation date",
+  "basis": "2026-09-30",
+  "checked": "2026-10-08"
+ },
+ "A-18459166": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-25",
+  "basis": "2026-09-25",
+  "checked": "2026-10-08"
+ },
+ "A-18921370": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-08",
+  "basis": "2026-09-08",
+  "checked": "2026-10-08"
+ },
+ "A-18907939": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-08-17",
+  "basis": "2026-08-17",
+  "checked": "2026-10-08"
+ },
+ "A-18863583": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-01",
+  "basis": "2026-09-01",
+  "checked": "2026-10-08"
+ },
+ "A-18632539": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-08-11",
+  "basis": "2026-08-11",
+  "checked": "2026-10-08"
+ },
+ "A-19070370": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-01",
+  "basis": "2026-09-01",
+  "checked": "2026-10-08"
+ },
+ "A-18239696": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-25",
+  "checked": "2026-10-08"
+ },
+ "A-18473195": {
+  "resolved": true,
+  "unscored": "action after 64 days",
+  "basis": "2026-09-30",
+  "checked": "2026-10-08"
+ },
+ "A-18986370": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-08-27",
+  "basis": "2026-08-27",
+  "checked": "2026-10-08"
+ },
+ "A-18655065": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-01",
+  "basis": "2026-09-01",
+  "checked": "2026-10-08"
+ },
+ "A-18407331": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-29",
+  "checked": "2026-10-08"
+ },
+ "A-18070850": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-29",
+  "checked": "2026-10-08"
+ },
+ "A-18325237": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-08-18",
+  "basis": "2026-08-18",
+  "checked": "2026-10-08"
+ },
+ "A-19331380": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-21",
+  "basis": "2026-09-21",
+  "checked": "2026-10-08"
+ },
+ "A-18644525": {
+  "resolved": true,
+  "unscored": "action after 64 days",
+  "basis": "2026-09-22",
+  "checked": "2026-10-08"
+ },
+ "A-18161536": {
+  "resolved": true,
+  "unscored": "no action within 64 days",
+  "basis": "2026-09-25",
+  "checked": "2026-10-08"
+ },
+ "A-18083380": {
+  "resolved": true,
+  "unscored": "action after 64 days",
+  "basis": "2026-09-28",
+  "checked": "2026-10-08"
+ },
+ "A-18341539": {
+  "resolved": true,
+  "y": 0,
+  "action": "CTFR",
+  "date": "2026-09-03",
+  "basis": "2026-09-03",
+  "checked": "2026-10-08"
+ },
+ "A-18951536": {
+  "resolved": true,
+  "y": 1,
+  "action": "NOA",
+  "date": "2026-09-16",
+  "basis": "2026-09-16",
+  "checked": "2026-10-08"
+ }
+}

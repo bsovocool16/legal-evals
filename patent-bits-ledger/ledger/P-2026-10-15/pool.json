@@ -1,0 +1,26 @@
+{
+ "batch": "P-2026-10-15",
+ "built_at": "2026-10-15T15:07:49+00:00",
+ "sha256": "d6d1f725922189800f149daa497e38ee00fd21e8188d861cb56bfc553bf0e9c6",
+ "groups": [
+  {
+   "key": "A",
+   "window": [
+    "2026-09-24",
+    "2026-09-30"
+   ],
+   "count_all_types": 11174,
+   "apps": 11109,
+   "previous_window_recount": 8749
+  },
+  {
+   "key": "F",
+   "window": [
+    "2026-10-08",
+    "2026-10-14"
+   ],
+   "count_all_types": 5640,
+   "apps": 5604
+  }
+ ]
+}

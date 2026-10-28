@@ -1,0 +1,11 @@
+{
+ "name": "sleep-lessons",
+ "tsa": "https://freetsa.org/tsr",
+ "time_utc": "2026-10-08T18:54:26+00:00",
+ "date_et": "2026-10-08",
+ "files_sha256": "ed2d11eed1dafdb27de20a42dc4882b5010c61e1c9e97fe1e33da50e161d989f",
+ "files": [
+  "docs/research/patent-bits/sleep/real/lessons_A.json",
+  "docs/research/patent-bits/sleep/shuffled/lessons_A.json"
+ ]
+}

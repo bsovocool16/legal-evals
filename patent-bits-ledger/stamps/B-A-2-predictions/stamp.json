@@ -1,0 +1,13 @@
+{
+ "name": "B-A-2-predictions",
+ "tsa": "https://freetsa.org/tsr",
+ "time_utc": "2026-10-08T23:17:39+00:00",
+ "date_et": "2026-10-08",
+ "files_sha256": "cfec86b6724cac727d6f6a1c5a06993685ff41dcf0f1db7f1d79c0decf498e5c",
+ "files": [
+  "docs/research/patent-bits/ledger/B-A-2/predictions/v1-opus.jsonl",
+  "docs/research/patent-bits/ledger/B-A-2/predictions/v1-sonnet.jsonl",
+  "docs/research/patent-bits/ledger/B-A-2/predictions/v2-sonnet-lessons.jsonl",
+  "docs/research/patent-bits/ledger/B-A-2/predictions/v2-sonnet-shuffled.jsonl"
+ ]
+}

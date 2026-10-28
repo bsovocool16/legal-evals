@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+*.egg-info/
+# Downloaded corpora, caches and run outputs are re-fetchable and are not published.
+data/
+**/data/

@@ -1,0 +1,68 @@
+{
+ "from": [
+  "C-A",
+  "C-F"
+ ],
+ "computed_at": "2026-10-08T08:49:33+00:00",
+ "cells": {
+  "A": {
+   "k": 108,
+   "n": 240,
+   "units": 240,
+   "jeffreys": 0.45020746887966806
+  },
+  "A_folded_allowable": {
+   "k": 11,
+   "n": 14,
+   "units": 14,
+   "jeffreys": 0.7666666666666667
+  },
+  "A_other": {
+   "k": 97,
+   "n": 226,
+   "units": 226,
+   "jeffreys": 0.42951541850220265
+  },
+  "F": {
+   "k": 78,
+   "n": 1987,
+   "units": 149,
+   "jeffreys": 0.03948692152917505
+  },
+  "F_allowable": {
+   "k": 25,
+   "n": 198,
+   "units": 34,
+   "jeffreys": 0.12814070351758794
+  },
+  "F_other": {
+   "k": 53,
+   "n": 1789,
+   "units": 147,
+   "jeffreys": 0.02988826815642458
+  }
+ },
+ "baseline_constants": {
+  "A_base": 0.45020746887966806,
+  "A_rule_q1": 0.45020746887966806,
+  "A_rule_q0": 0.45020746887966806,
+  "F_base": 0.03948692152917505,
+  "F_rule_r1": 0.12814070351758794,
+  "F_rule_r0": 0.02988826815642458
+ },
+ "prompt_constants": {
+  "A_n": 240,
+  "A_k": 108,
+  "A_pct": 45,
+  "F_n": 1987,
+  "F_k": 78,
+  "F_pct": 4,
+  "F_allow_clause": true,
+  "F_allow_n": 198,
+  "F_allow_k": 25,
+  "F_allow_pct": 13,
+  "F_other_n": 1789,
+  "F_other_k": 53,
+  "F_other_pct": 3
+ }
+}
